@@ -7,7 +7,7 @@ OSSDAO.org
 **DOWNLOAD** this repository and **UPLOAD** to your new own repository to make the changes in your local system.
 
 ```git-bash
-git clone https://github.com/YOUR-USERNAME/ossdao
+git clone https://github.com/DeandraF/ossdao
 cd ossdao
 ```
 
@@ -28,9 +28,9 @@ cp .env_template .env
 Then set your own **Git credentials** bellow:
 
 ```shell
-GIT_NAME=""         # Your name
-GIT_EMAIL=""        # Your email
-REPO_URL=""         # Repo URL (eg. https://github.com/fadhiilrachman/ossdao)
+GIT_NAME=""         # Deandra Firzatullah Rosaldy
+GIT_EMAIL=""        # deandraa.rosaldy@gmail.com
+REPO_URL=""         # https://github.com/DeandraF/ossdao
 BRANCH_NAME="main"  # Github default branch, if you don't have alter branch please don't edit
 ```
 
